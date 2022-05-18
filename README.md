@@ -13,7 +13,7 @@ Clone this repository and go to the project folder:
 `git clone https://github.com/yieniggu/chainstack-test.git  
   && cd chainstack-test`
 
-#### In case you wan't to test this program quickly and select one of the given default networks, select it from the list:
+#### In case you want to test this program quickly and select one of the given default networks, select it from the list:
 ![image](https://user-images.githubusercontent.com/45997136/169138238-fb6ee5cb-88a6-4f9b-b14e-d441a3dad998.png)
 
 #### If you prefer to use your own custom rpc endpoint open the .env file and replace the CUSTOM_NODE value with the rpc you want to use. Remember to provide a websocket endpoint format:
